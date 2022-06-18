@@ -3,7 +3,7 @@
 - name: play for deployment
   hosts: webservers
   become: yes
-  become_user: root
+  become_user: jenkins
   tasks:
     - name: deploying war file
       copy:
