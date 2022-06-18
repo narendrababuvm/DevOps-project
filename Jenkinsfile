@@ -4,7 +4,7 @@ node {
         
         git branch: 'main', 
         credentialsId: 'sampleA-github-access', 
-        url: 'git@github.com:narendrababuvm/sample-jsp.git'
+        url: 'git@github.com:narendrababuvm/DevOps-project.git'
 
     }
     stage('Building the web artifact') {
