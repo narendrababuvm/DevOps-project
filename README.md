@@ -1,5 +1,3 @@
-# Sample Restaurant Menu Application
+# A Continuous Integration and Deployment pipeline for sample jsp Application 
 
-Food Menu with Details
-
-This is tech food company which displays food items with price
+Done with Jenkins with Maven and Ansible
